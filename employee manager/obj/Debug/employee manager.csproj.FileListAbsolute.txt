@@ -1,0 +1,44 @@
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\employee manager.exe.config
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\employee manager.exe
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\employee manager.pdb
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\Dapper.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\MetroFramework.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Debug\Dapper.xml
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.addfieldandbranch.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.addNewEmployee.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.changepwd.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.delete.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.edit.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.Form1.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.login.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.Properties.Resources.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee_manager.view.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.csproj.GenerateResource.cache
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.csproj.CoreCompileInputs.cache
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.csproj.CopyComplete
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.exe
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.pdb
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Debug\employee manager.csprojAssemblyReference.cache
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\bin\Debug\employee manager.exe.config
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\bin\Debug\employee manager.exe
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\bin\Debug\employee manager.pdb
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\bin\Debug\Dapper.dll
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\bin\Debug\Dapper.xml
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.csproj.AssemblyReference.cache
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.addfieldandbranch.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.addNewEmployee.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.changepwd.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.delete.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.edit.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.Form1.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.login.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.others.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.Properties.Resources.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee_manager.view.resources
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.csproj.GenerateResource.cache
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.csproj.CoreCompileInputs.cache
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.csproj.CopyComplete
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.exe
+C:\Users\Bini\Desktop\employee manager\employee manager\employee manager\obj\Debug\employee manager.pdb

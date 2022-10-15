@@ -1,0 +1,21 @@
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\employee manager.exe.config
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\employee manager.exe
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\employee manager.pdb
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\Dapper.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\MetroFramework.dll
+C:\Users\Redu\source\repos\employee manager\employee manager\bin\Release\Dapper.xml
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.addfieldandbranch.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.addNewEmployee.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.changepwd.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.delete.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.edit.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.Form1.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.login.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.Properties.Resources.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee_manager.view.resources
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee manager.csproj.GenerateResource.cache
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee manager.csproj.CoreCompileInputs.cache
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee manager.csproj.CopyComplete
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee manager.exe
+C:\Users\Redu\source\repos\employee manager\employee manager\obj\Release\employee manager.pdb
